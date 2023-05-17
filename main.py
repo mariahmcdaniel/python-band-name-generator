@@ -6,4 +6,4 @@ city = input("What city did you grow up in?\n")
 
 pet = input("What is the name of either your current pet or a pet you have previosly owned?\n")
 
-print("Your band name is: " + adj + " " + city + " " + pet + "s")
+print("Your band name is: " + pet + "'s " + adj + " " + city)
